@@ -1,0 +1,102 @@
+[20Oct2024 00:00:14.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20Oct2024 00:00:43.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[20Oct2024 00:00:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dobu7: Set own game mode to Survival Mode]
+[20Oct2024 00:01:23.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[20Oct2024 00:01:49.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11200ms or 224 ticks behind
+[20Oct2024 00:02:15.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11026ms or 220 ticks behind
+[20Oct2024 00:02:24.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dobu7: Teleported dobu7 to -6253.500000, 64.000000, -277.500000]
+[20Oct2024 00:02:36.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dobu7: Teleported bnet to dobu7]
+[20Oct2024 00:02:53.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dobu7: Set own game mode to Creative Mode]
+[20Oct2024 00:03:06.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36634ms or 732 ticks behind
+[20Oct2024 00:03:44.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22758ms or 455 ticks behind
+[20Oct2024 00:04:05.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5847ms or 116 ticks behind
+[20Oct2024 00:04:27.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7435ms or 148 ticks behind
+[20Oct2024 00:04:47.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4271ms or 85 ticks behind
+[20Oct2024 00:05:05.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3632ms or 72 ticks behind
+[20Oct2024 00:05:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dobu7: Teleported dobu7 to urieleon]
+[20Oct2024 00:05:26.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5821ms or 116 ticks behind
+[20Oct2024 00:05:44.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
+[20Oct2024 00:06:03.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3745ms or 74 ticks behind
+[20Oct2024 00:06:22.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dobu7: Set bnet's game mode to Survival Mode]
+[20Oct2024 00:06:36.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18839ms or 376 ticks behind
+[20Oct2024 00:07:07.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PATITOELdios[/172.26.59.43:63249] logged in with entity id 19835 at (-60.57954743504894, 226.0, -25.069730160841754)
+[20Oct2024 00:07:07.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios joined the game
+[20Oct2024 00:07:13.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21938ms or 438 ticks behind
+[20Oct2024 00:07:42.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13255ms or 265 ticks behind
+[20Oct2024 00:08:06.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9287ms or 185 ticks behind
+[20Oct2024 00:08:26.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Infested Stone'/21737, l='ServerLevel[world]', x=-3389.50, y=29.00, z=-516.50]
+[20Oct2024 00:08:32.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/17960, l='ServerLevel[world]', x=-3355.58, y=30.00, z=-508.39] died: cheesepuff was shot by Skeleton
+[20Oct2024 00:08:32.958] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Infested Stone'/21800, l='ServerLevel[world]', x=-3387.50, y=29.00, z=-516.50]
+[20Oct2024 00:08:33.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11748ms or 234 ticks behind
+[20Oct2024 00:08:59.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11539ms or 230 ticks behind
+[20Oct2024 00:09:27.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12889ms or 257 ticks behind
+[20Oct2024 00:09:59.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17649ms or 352 ticks behind
+[20Oct2024 00:10:26.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11540ms or 230 ticks behind
+[20Oct2024 00:10:44.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[20Oct2024 00:10:53.983] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Oct2024 00:10:53.988] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[20Oct2024 00:10:53.993] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[20Oct2024 00:10:53.993] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Oct2024 00:10:53.994] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 4
+[20Oct2024 00:10:54.781] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Oct2024 00:10:54.782] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[20Oct2024 00:10:54.782] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[20Oct2024 00:10:54.782] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Oct2024 00:10:54.782] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 4
+[20Oct2024 00:10:55.723] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Oct2024 00:10:55.724] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[20Oct2024 00:10:55.724] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[20Oct2024 00:10:55.725] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Oct2024 00:10:55.725] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 4
+[20Oct2024 00:11:09.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10341ms or 206 ticks behind
+[20Oct2024 00:11:19.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios was slain by urieleon
+[20Oct2024 00:11:19.421] [Server thread/INFO] [tombstone/]: The player PATITOELdios has successfully been saved
+[20Oct2024 00:11:24.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dobu7: Teleported PATITOELdios to dobu7]
+[20Oct2024 00:11:28.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3933ms or 78 ticks behind
+[20Oct2024 00:11:45.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Oct2024 00:12:12.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[20Oct2024 00:12:30.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[20Oct2024 00:12:48.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
+[20Oct2024 00:13:37.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved too quickly! 3.764501572518398,-3.17251905022178,8.79155179463568
+[20Oct2024 00:13:53.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dobu7: The difficulty has been set to Peaceful]
+[20Oct2024 00:13:57.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios fell from a high place
+[20Oct2024 00:14:01.143] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.43 seconds (should be max 0.05)
+[20Oct2024 00:14:01.147] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20Oct2024 00:14:01.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios moved too quickly! -4.141820613802217,4.687476801430165,7.8377676202275754
+[20Oct2024 00:14:06.522] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Oct2024 00:14:06.524] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[20Oct2024 00:14:06.525] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 reinforced_polished_andesite
+[20Oct2024 00:14:06.525] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Oct2024 00:14:06.526] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 6
+[20Oct2024 00:14:06.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bnet moved too quickly! -3.2509076993973807,-1.1823432381447105,-9.546717985087597
+[20Oct2024 00:14:06.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dobu7 moved too quickly! -10.009211345365742,0.0,-0.021778547699778272
+[20Oct2024 00:14:06.702] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Oct2024 00:14:06.703] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[20Oct2024 00:14:06.703] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 reinforced_polished_andesite
+[20Oct2024 00:14:06.704] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Oct2024 00:14:06.704] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 6
+[20Oct2024 00:14:06.810] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID dd353f4b-5b66-4859-8916-2c4f6087d0ed
+[20Oct2024 00:14:06.899] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Oct2024 00:14:06.900] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[20Oct2024 00:14:06.900] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 reinforced_polished_andesite
+[20Oct2024 00:14:06.901] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Oct2024 00:14:06.901] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 6
+[20Oct2024 00:14:06.930] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID a63ce117-7dbf-47bd-8cec-58e1ada57057
+[20Oct2024 00:14:06.961] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Minecraft_branch/servidor_minecraft/./crash-reports/crash-2024-10-20_00.14.06-server.txt
+[20Oct2024 00:14:07.154] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Oct2024 00:14:07.155] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[20Oct2024 00:14:07.156] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 reinforced_polished_andesite
+[20Oct2024 00:14:07.158] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Oct2024 00:14:07.162] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 6
+[20Oct2024 00:14:07.351] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Oct2024 00:14:07.352] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[20Oct2024 00:14:07.352] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 reinforced_polished_andesite
+[20Oct2024 00:14:07.353] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Oct2024 00:14:07.353] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 6
+[20Oct2024 00:14:07.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Oct2024 00:14:07.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Oct2024 00:14:07.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dobu7 lost connection: Server closed
+[20Oct2024 00:14:07.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dobu7 left the game
+[20Oct2024 00:14:07.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: urieleon lost connection: Server closed
+[20Oct2024 00:14:07.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: urieleon left the game
+[20Oct2024 00:14:11.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
